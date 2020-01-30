@@ -1,0 +1,38 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  firefox&
+    4  gti uploadgit clone https://github.com/Ph1veR/RTR108
+    5  gti clone https://github.com/Ph1veR/RTR108
+    6  git clone https://github.com/Ph1veR/RTR108
+    7  ls -l
+    8  cd RTR108\
+    9  cd RTR108/
+   10  nano git-upload
+   11  ls -l
+   12  chmod 
+   13  chmod 744 git-upload
+   14  ls -l
+   15  nano README.md
+   16  ls ills il
+   17  ls -l
+   18  ./git-upload 20200130_10_45
+   19  Ph1veR
+   20  ./git-upload 20200130_10_45
+   21  nano git-upload
+   22  ./git-upload 20200130_10_45
+   23  python
+   24  ipython
+   25  python_tests.py
+   26  nano python_tests.py
+   27  python python_tests.py
+   28  nano python_tests.py
+   29  python_tests.py
+   30  python python_tests.py
+   31  python --version
+   32  python python2_tests.py
+   33  python2 python_tests.py
+   34  idle &
+   35  python2 -m SimpleHTTPServer 8000
+   36  ls -la
+   37  history
+   38  history >>history_20200130.txt
